@@ -84,7 +84,7 @@ I recently completed an intensive web development bootcamp, where I discovered a
 </p>
 
 
-# 💡 Projects
+# :desktop_computer: Projects
 
 **API with NodeJS and Express**  
 - This project involved creating a database based on characters from the Simpsons and its corresponding API using NodeJS and Express. The API allows users to perform CRUD operations on the data.
