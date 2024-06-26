@@ -75,7 +75,7 @@ I recently completed an intensive web development bootcamp, where I discovered a
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
     
-    * Postman
+   * Postman
     
   &nbsp;
   <a href="https://postman.com" target="_blank" rel="noreferrer">
