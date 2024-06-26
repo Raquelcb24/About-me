@@ -10,7 +10,7 @@ I recently completed an intensive web development bootcamp, where I discovered a
 
 **Frontend**     
 
-* HTML5 & CSS3: Semantic HTML, Flexbox, Grid, Responsive Design
+* CSS3, SASS & HTML5: Semantic HTML, Flexbox, Grid, Responsive Design
     
   
 <p align="left">
@@ -41,10 +41,18 @@ I recently completed an intensive web development bootcamp, where I discovered a
 </p>
 
 **Backend**
+* Node.js: Express, RESTful APIs, Middleware
+  
 <p align="left">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+    &nbsp;
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
+    * Databases: MySQL
+    
   &nbsp;
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
@@ -53,17 +61,17 @@ I recently completed an intensive web development bootcamp, where I discovered a
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
-  &nbsp;
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
+
 </p>
 
 **Tools & Others**
+  * Version Control: Git, GitHub
+
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
+      * Postman
   &nbsp;
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
