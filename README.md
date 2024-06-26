@@ -2,7 +2,7 @@
 # 👋 Hi, I’m Raquel Castro
 
 Welcome to my GitHub profile! 
-I recently completed an intensive web development bootcamp, where I discovered an exciting new world of coding. As a junior web developer, I am eager to learn and contribute to innovative projects.
+I love challenges, which motivated me to reinvent myself, change my professional field and became a web developer, where I have found a great motivation and enthusiasm to continue learning. I have knowledge in HTML, CSS, JavaScript and modern libraries such as React, and I am able to work effectively both independently and in a teamwork. Highly organized and solution-oriented, I am committed to continuous learning and improving my technical skills. 
 
 # 🛠️ Skills
 
@@ -120,5 +120,4 @@ I am passionate about continuing my journey in web development and constantly im
 
 **LinkedIn:** www.linkedin.com/in/raquelcb24
 
-# 🌟 Personal Note
-Junior web developer passionate about creating attractive and functional web solutions. Knowledgeable in HTML, CSS, JavaScript, and modern frameworks like React. Able to work effectively both independently and as part of a team. Committed to continuous learning and improving technical skills.
+
