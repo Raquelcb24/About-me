@@ -31,7 +31,7 @@ I recently completed an intensive web development bootcamp, where I discovered a
 **Full Stack Project: Dynamic Web with React and Database Integration** 
 - This full stack project made with a team working, involved creating a dynamic web application using React on the frontend and integrating it with a backend database. The backend was responsible for storing and serving data to the frontend.
 * **Technologies Used:** React, Node.js, Express, HTML, CSS
- * **Link:** https://github.com/valenovalles/project-promo-X-module-4-team-3
+ * **Link:** https://github.com/Raquelcb24/Full-Stack-proyect-AdaMoonWedding
 
 
 **Fetch and Display Data with React** 
