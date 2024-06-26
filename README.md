@@ -26,7 +26,7 @@ I recently completed an intensive web development bootcamp, where I discovered a
 **API with NodeJS and Express**  
 - This project involved creating a database based on characters from the Simpsons and its corresponding API using NodeJS and Express. The API allows users to perform CRUD operations on the data.
 * **Technologies Used:** NodeJS, Express, My SQL
- * **Link:** https://github.com/Adalab/modulo-4-evaluacion-final-bpw-Raquelcb24
+ * **Link:** https://github.com/Raquelcb24/API-simpsons-Back-end
 
 **Full Stack Project: Dynamic Web with React and Database Integration** 
 - This full stack project made with a team working, involved creating a dynamic web application using React on the frontend and integrating it with a backend database. The backend was responsible for storing and serving data to the frontend.
