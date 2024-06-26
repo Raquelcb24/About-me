@@ -41,6 +41,7 @@ I recently completed an intensive web development bootcamp, where I discovered a
 </p>
 
 **Backend**
+
 * Node.js: Express, RESTful APIs, Middleware
   
 <p align="left">
@@ -51,7 +52,8 @@ I recently completed an intensive web development bootcamp, where I discovered a
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
-    * Databases: MySQL
+    
+   * Databases: MySQL
     
   &nbsp;
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
@@ -65,13 +67,16 @@ I recently completed an intensive web development bootcamp, where I discovered a
 </p>
 
 **Tools & Others**
+
   * Version Control: Git, GitHub
 
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
-      * Postman
+    
+    * Postman
+    
   &nbsp;
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
