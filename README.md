@@ -37,7 +37,7 @@ I recently completed an intensive web development bootcamp, where I discovered a
 **Fetch and Display Data with React** 
 - In this project, I performed a fetch request to an external API based on Rick and Morty characters and used React to display the data in different cards.
 *  **Technologies Used:** React, JavaScript, Fetch API, HTML, CSS
-* **Link:** https://github.com/Adalab/modulo-3-evaluacion-final-Raquelcb24
+* **Link:** https://github.com/Raquelcb24/Rick-and-Morty-
 
 **React Project: Customizable Cards Generator** 
 - In this project made with a team working, we created a React application where users can create personalized cards using a form. The form inputs allow customization of each card's content and styling.
