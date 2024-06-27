@@ -106,7 +106,7 @@ I love challenges, which motivated me to reinvent myself, change my professional
 - In this project made with a team working, we created a React application where users can create personalized cards using a form. The form inputs allow customization of each card's content and styling.
 
 *  **Technologies Used:** React, JavaScript, HTML, CSS
-* **Link**: https://github.com/Raquelcb24/promo-X-module-2-proyect-group4
+* **Link**: https://raquelcb24.github.io/Mystical-coders-cards/
 
 **Static web created with a team working**
 *  **Technologies Used:** HTML, CSS
